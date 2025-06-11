@@ -1,7 +1,7 @@
 /* define constants up here */
 :root {
-  --banner-bg-start: #b533ff;
-  --banner-bg-end: #43165d;
+  --banner-bg-start: #000000;
+  --banner-bg-end: #000000;
   --produce-gray: #black;
   --search-text-gray: #949494;
   --search-gray: #f2f2f2;
@@ -11,7 +11,7 @@
   --ranking-affil-gray: #989898;
   --save-box-gray: #b1b1b1;
 
-  --checked-blue: #052ae2CC;
+  --checked-blue: #FFFFFF;
 
   /* ranking border colors */
   --a-rank: #fdbe08;
