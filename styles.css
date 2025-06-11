@@ -114,18 +114,18 @@ body {
   border: none;
   border-radius: 3px;
   padding: 4px 6px 4px 6px;
-  background-color: #000000;
+  background-color: black;
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   font-weight: 700;
-  color: #000000;
+  color: black;
 }
 #getlink-button:active { /* these styles are active while get link is being pressed */
-  background-color: #000000;
+  background-color: black;
 }
 #getlink-textbox {
   margin-left: 5px;
-  border: 1px solid #000000;
+  border: 1px solid black;
   border-radius: 3px;
   box-sizing: border-box;
   padding: 5px;
