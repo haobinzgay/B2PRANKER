@@ -118,7 +118,7 @@ body {
   font-family: 'Open Sans', sans-serif;
   font-size: 14px;
   font-weight: 700;
-  color: white;
+  color: #000000;
 }
 #getlink-button:active { /* these styles are active while get link is being pressed */
   background-color: #000000;
