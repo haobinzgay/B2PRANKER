@@ -69,7 +69,7 @@ trainee: {
   image: ...
   selected: false/true // whether user selected them
   eliminated: false/true
-  top9: false/true
+  top8: false/true
 }
 */
 function convertCSVArrayToTraineeData(csvArrays) {
