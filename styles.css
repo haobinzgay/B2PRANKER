@@ -33,7 +33,7 @@ body {
   min-width: 100%;
   /*TODO: I had the weirdest bug where if i don't have this background white the top banner would disappear
   it's super late right now and I'm not sure what is going on i need to look into this later */
-  background-color: #efbbfc;
+  background-color: #F7F7F7;
 }
 
 /* Styles for banner */
@@ -121,11 +121,11 @@ body {
   color: white;
 }
 #getlink-button:active { /* these styles are active while get link is being pressed */
-  background-color: #ff2475;
+  background-color: #000000;
 }
 #getlink-textbox {
   margin-left: 5px;
-  border: 1px solid var(--save-box-gray);
+  border: 1px solid #000000;
   border-radius: 3px;
   box-sizing: border-box;
   padding: 5px;
