@@ -47,8 +47,8 @@ body {
   text-align: center;
 }
 #banner-image {
-  width: 125px;
-  margin-bottom: 15px;
+  width: 640px;
+  margin-bottom: 320px;
 }
 #banner-title {
   font-family: 'Roboto Condensed', sans-serif;
@@ -56,7 +56,7 @@ body {
 }
 #banner-subtitle {
   font-family: 'Roboto Condensed', sans-serif;
-  color: #f3cdd3;
+  color: #D3D3D3;
   font-size: 12px;
 }
 
