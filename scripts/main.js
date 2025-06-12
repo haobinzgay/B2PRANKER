@@ -390,7 +390,7 @@ function removeRankedTrainee(trainee) {
   return false;
 }
 
-const currentURL = "https://9thpick.github.io/B2PRANKER/;
+const currentURL = "https://9thdesire.github.io/BoysPlanetII/";
 // Serializes the ranking into a string and appends that to the current URL
 function generateShareLink() {
   let shareCode = ranking.map(function (trainee) {
@@ -429,4 +429,3 @@ const rowNums = [1, 3, 4];
 //});
 // checks the URL for a ranking and uses it to populate ranking
 getRanking();
-
