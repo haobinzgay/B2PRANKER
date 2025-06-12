@@ -226,10 +226,10 @@ body {
 }
 /* Different entry borders */
 .a-rank-border {
-  border: 5px solid var(--a-rank);
+  border: 2px solid var(--a-rank);
 }
 .b-rank-border {
-  border: 5px solid var(--b-rank);
+  border: 2px solid var(--b-rank);
 }
 .c-rank-border {
   border: 5px solid var(--c-rank);
